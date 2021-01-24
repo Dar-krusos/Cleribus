@@ -54,6 +54,9 @@ section .da-scroller::-webkit-scrollbar-thumb {border: none !important;}
     padding: 2px 3px;
     font-size: 0.9em
 }
+.wrapper-21YSNc {
+    border-radius: var(--server-icon-radius);
+}
 .wrapperHover-1GktnT:hover {
     transition: background-color 325ms ease-in, color 375ms ease-in-out;
 }

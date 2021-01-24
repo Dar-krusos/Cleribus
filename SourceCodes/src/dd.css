@@ -54,11 +54,6 @@ section .da-scroller::-webkit-scrollbar-thumb {border: none !important;}
     padding: 2px 3px;
     font-size: 0.9em
 }
-.wrapper-21YSNc {
-    
-.wrapper-1Rf91z .iconBadge-2NuvG9 {
-    border-radius: 1px;
-}
 .wrapperHover-1GktnT:hover {
     transition: background-color 325ms ease-in, color 375ms ease-in-out;
 }
@@ -95,6 +90,11 @@ section .da-scroller::-webkit-scrollbar-thumb {border: none !important;}
 #app-mount .chat-3bRxxu form, #app-mount .content-yTz4x3, 
 #app-mount .messagesWrapper-3lZDfY {
     background: transparent;
+}
+#app-mount .guilds-1SWlCJ .wrapper-1BJsBx,
+#app-mount .guilds-1SWlCJ .wrapper-25eVIn {
+    border-radius: 1px;
+    overflow: hidden;
 }
 .theme-dark .chat-3bRxxu {
     background: var(--dm-chat-bg);

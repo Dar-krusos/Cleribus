@@ -55,7 +55,9 @@ section .da-scroller::-webkit-scrollbar-thumb {border: none !important;}
     font-size: 0.9em
 }
 .wrapper-21YSNc {
-    border-radius: var(--server-icon-radius);
+    
+.wrapper-1Rf91z .iconBadge-2NuvG9 {
+    border-radius: 1px;
 }
 .wrapperHover-1GktnT:hover {
     transition: background-color 325ms ease-in, color 375ms ease-in-out;
